@@ -1,0 +1,6 @@
+github.com/xiangxu05/logger v0.0.0-20250711065823-9fb3e778f144 h1:9A2diaAsmq3Wh+5O71Ak0bDkGiF0pZ1lHSWbHuR6YUM=
+github.com/xiangxu05/logger v0.0.0-20250711065823-9fb3e778f144/go.mod h1:XT9ijtl9nNkGfgUsiTkf08EfGkqWYp9iRsdxK7NJmR0=
+github.com/xiangxu05/logger v1.0.0 h1:I6bddcHSFg5dry3C6wjKp4ybBx4JHJPQqXNzpCKr59Y=
+github.com/xiangxu05/logger v1.0.0/go.mod h1:cTIFM051KX31bzuZNfJoFu6jT9RaDQV2ybideBwAe6g=
+gopkg.in/natefinch/lumberjack.v2 v2.2.1 h1:bBRl1b0OH9s/DuPhuXpNl+VtCaJXFZ5/uEFST95x9zc=
+gopkg.in/natefinch/lumberjack.v2 v2.2.1/go.mod h1:YD8tP3GAjkrDg1eZH7EGmyESg/lsYskCTPBJVb9jqSc=

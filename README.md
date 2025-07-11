@@ -63,6 +63,12 @@ func main() {
 
     // 模拟 panic，测试自动捕获
     panic("测试 panic 捕获")
+
+    // 程序内部函数使用
+    func() {
+        log := logger.GetLoggerInstance()
+        log.Info("内部函数使用")
+    }()
 }
 ```
 
