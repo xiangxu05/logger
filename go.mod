@@ -1,4 +1,4 @@
-module github.com/xiangxu05/logger
+module logger
 
 go 1.24.4
 
